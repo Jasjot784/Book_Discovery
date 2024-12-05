@@ -1,16 +1,15 @@
 # book_discovery
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is regarding book discovery app.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The key points are
+1. Home screen has list of books displayed with author name and book title. The list will keep on increasing as we scroll down like in gmail app.
+2. The detail screen has info in detail for the particular screen
+3. Now, there are three 3 types of search bars
+   a. Search by title
+   b. Search by author
+   c. Search by keyword
