@@ -2,7 +2,7 @@
 
 A Flutter project.
 
-## Getting Started
+## Project Insights
 
 This project is regarding book discovery app.
 
